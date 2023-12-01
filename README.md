@@ -1,6 +1,6 @@
 ﻿# Audio-Transcription
 
-This repository uses AssemblyAI to transcribe audio into text from an audio url.
+This repository uses AssemblyAI to transcribe audio into text from an audio url, using AssemblyAI Nodejs SDK
 
 Create an account at [AssemblyAI](https://www.assemblyai.com/) and get your api key.
 
