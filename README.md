@@ -15,3 +15,8 @@ or use:
 npm install assemblyai
 ```
 to only install the AssemblyAI Nodejs SDK 
+
+run the transcribe js file
+```
+node transcribe
+```
